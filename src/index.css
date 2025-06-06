@@ -68,5 +68,5 @@
 }
 
 .right-dashboard-container {
-  width: 900px;
+  width: -webkit-fill-available;
 }
